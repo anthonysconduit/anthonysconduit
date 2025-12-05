@@ -69,44 +69,50 @@
 <img align="center" src="https://file.garden/ZNjY5-CbZ0o-GQoj/dividerquestionmark.png">
  <br/>
 
+<h2 align="center">${\textsf{\color{#FFFFA0}Before You Interact}}$</h2>
 
-<h2 align="center">${\textsf{\color{#FFFFA0}Before You Interact}}$</h2> TAKING A BREAK AGAIN its 7 am in the morning, im running on no sleep... pick up whenever
+<p align="center">"As mentioned, I'm pretty shy so I might go quiet or get overwhelmed with new people, so be patient with me!"</p>
+  
+<p align="center">"I may not respond right away if I am offtab but I try my best to, I'm almost always multitasking."</p>
+  
+<p align="center">"I am pretty blunt, if you upset me I will not be afraid to call you out."</p>
+ 
+<p align="center">"I will not be afraid to hide you if you annoy me, I hide freely. Although, I don't hide a lot of people, and have a tendecy to unhide. But, if its a repeated offense it will be permanant. I try to be kind and patiernt with everyone; with exceptions obviously."</p>
 
+<p align="center">"I genuinely do not give a single fuck what you do with fiction or whatever. As long as you aren't hurting anybody or making anybody uncomfortable, we're cool. I don't really label myself with anything, I'm just making this clear because some people will see you as a terrible person if you don't "care" about the quote unquote issues they do."</p>
+<p align="center">
+<img align="center" src="https://file.garden/ZNjY5-CbZ0o-GQoj/yttdarrowmove.gif">
+<img align="center" src="https://file.garden/ZNjY5-CbZ0o-GQoj/dividerquestionmark.png">
+ <br/>
 
+<h2 align="center">${\textsf{\color{#FFFFA0}Do Not Interact}}$</h2>
 
-- i am "anti-harassment", also known as "proship/profic". although, labels confuse me with all the new additions so id rather just say im anti-harassment. if you need more clarification: yes i do have my own "problematic" likings, i thought thats what proship was? but then darkship appeared? i dont really get it, im old. anyways! block me if you need to.
+<p align="center">"If you fall under my <a href="https://rentry.co/dnisconduit">DNI</a> here."</p>
+  
+<p align="center">"If you have a problem with me or my skins or the people I hang around, <b>hide me</b> please. Be a bigger person, thank you."</p>
+  
+<p align="center">"If you are the type to <b>send death threats</b> or <b>harass people viciously instead of muting and blocking</b> like a normal mature person, <i>I want nothing to do with you</i>. Grow up. Basically just, get the fuck away from me if you harass people in any way, okay?"</p>
 
-- as mentioned, im pretty shy so i might go quiet or get overwhelmed with new people, so be patient with me
-  
-- i may not respond right away if i am offtab but i try my best to, im almost always multitasking
-  
-- i am pretty blunt, if you upset me i will not be afraid to call you out.
-  
-- i will not be afraid to hide you if you annoy me, at this point i hide freely; following my own dni and yours.
+<p align="center">"Do <b>not</b> interact if you are the type to copy skins, do not copy my skins. <i>You may take inspiration</i>, but <b>do not</b> copy despite how "<i>simple</i>" my style is."</p>
+<p align="center">
+<img align="center" src="https://file.garden/ZNjY5-CbZ0o-GQoj/yttdarrowmove.gif">
+<img align="center" src="https://file.garden/ZNjY5-CbZ0o-GQoj/dividerquestionmark.png">
+ <br/>
 
-## **DO NOT INTERACT + DO'S AND DON'TS.ᐟ** ![angry](https://64.media.tumblr.com/48d355ab2558992c964aaa251de9c7fb/7d4346d1477298e1-3c/s75x75_c1/ab4a72a28910a0ccc108891bc1f0c24414ce36ca.gif)
-- are pro-harassment (an "anti")
-  
-- fall under my [dni](https://rentry.co/dnisconduit).
-  
-- please for the love of god if you have a problem with me and or my skins or WHATEVER, ***HIDE ME***. do not insult me, hide me and move on... shouldnt have to be said/asked.
-  
-- do **NOT** interact if you are the type to copy skins, do not copy my skins. *you may take inspo*, but ***DO NOT*** copy despite how "*simple*" my style is.
-  
-- if you are the type to **send death threats** or **harass people viciously instead of muting and blocking** like a normal mature person, ***i want nothing to do with you***. do better.
-  
-- please do not cover me if i do not know you. i will hide you if i feel/can tell its malicious (usually for 24 hours).
-  
-- please do not compare my OC's to canonical characters from another media.
+<h2 align="center">${\textsf{\color{#FFFFA0}Boundaries}}$</h2>
 
-## **CONTINUED BOUNDARIES.ᐟ** ![mad](https://vermillion.drr.ac/assets/images/gallery01/2bc55952.gif?v=9b7c387b)
-- i dont mind boops, but they are not a way to get my attention. if you want my attention, whisper me or speak, i usually dont respond to just "hi" though, so be creative!
-  
-- i love crowns (👑) or compliments! feel free to! though, do it in whisper in case i dont see it (if you can, sometimes theyre disabled because of harrassment, but not often!)
-  
-- i am happily taken by my lovely boyfriend, so i would prefer if you dont flirt with me or anything like that! this is a pony game, not a dating game.
+<p align="center">"Please do not cover me if I do not know you. I will hide you if I feel/can tell it's malicious ${\textsf{\color{#99CCFF}(usually for 24 hours)}}$."</p>
 
-![divider](https://file.garden/ZNjY5-CbZ0o-GQoj/dividerquestionmark.png)
+<p align="center">"I dont mind boops, but they are not a way to get my attention. If you want my attention, whisper me or speak, I usually dont respond to just "hi" though, so be creative!"</p>
 
-## that's all! thank you for reading.ᐟ
-![fandomimg3](https://file.garden/ZNjY5-CbZ0o-GQoj/!%2497_ranmaru.png)
+<p align="center">"I love crowns ${\textsf{\color{#99CCFF}(👑)}}$ or compliments! Feel free to! though, do it in whisper in case I dont see it."</p>
+
+<p align="center">"I am happily taken by my lovely boyfriend, so I would prefer if you dont flirt with me or anything like that! This is a pony game, not a dating game."</p>
+<p align="center">
+<img align="center" src="https://file.garden/ZNjY5-CbZ0o-GQoj/yttdarrowmove.gif">
+<img align="center" src="https://file.garden/ZNjY5-CbZ0o-GQoj/dividerquestionmark.png">
+ <br/>
+
+<h2 align="center">${\textsf{\color{#FFFFA0}Closing}}$</h2>
+<p align="center">
+<img align="center" src="https://file.garden/ZNjY5-CbZ0o-GQoj/!%2497_ranmaru.png">
