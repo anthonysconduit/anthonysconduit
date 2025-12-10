@@ -10,6 +10,18 @@
 <img align="center" src="https://file.garden/ZNjY5-CbZ0o-GQoj/yttdarrowmove.gif">
 <img align="center" src="https://file.garden/ZNjY5-CbZ0o-GQoj/dividerquestionmark.png">
  <br/>
+
+<p align="center">
+ <details>
+
+<summary><b>Fun Things (ex. last.fm stats etc)</b></summary>
+
+[![steam-thing](https://steam-current-game.vercel.app/api/?steamids=76561198355161550)](https://steamcommunity.com/id/anthonyscoffin/)
+
+[![last-fm-thing](https://lastfm-recently-played.vercel.app/api?user=anthonyscoffin&header_style=compact_stats_only&show_user=footer&count=3&width=300&loved=true&footer_style=compact&bg_color=5c6893)](https://www.last.fm/user/anthonyscoffin) [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=316r4eyubvy7c33mb45uxrofcqry&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=cad9ff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![Discord Presence](https://lanyard.kyrie25.dev/api/471151816688533535?showDisplayName=true&showBanner=animated&hideDecoration=false&hideStatus=false&hideProfile=false&hideActivity=false&hideSpotify=false&hideNameplate=true&animatedDecoration=true&theme=dark&waveSpotifyColor=transparent&waveColor=transparent&gradient=ffffff-cad9ff-8ca1e0-6072a9-2f3d68-111b3f&hideClan=false&bannerFilter=brightness(0.5)blur(1px)&idleMessage=probably%20asleep%20or%20away...&clanbg=3f444fa5)](https://discord.com/users/471151816688533535)
+
+</details>
 <h2 align="center">${\textsf{\color{#FFFFA0}About}}$</h2>
  <p align="center">"Hi, I'm ${\textsf{\color{#FF784C}Anthony}}$, but you can call me Anth, Tony or Ant... or whatever nickname you come up with, just tell me! ${\textsf{\color{#FF784C}It/its}}$ or he/him. I'm a 21 year old queer disaster obsessed with fandom and music, and an artist slash editor of sorts, I make art ${\textsf{\color{#99CCFF}(traditional/digital, sometimes try animation)}}$ and I edit ${\textsf{\color{#99CCFF}(sprites and video)}}$. Anyways, I am terrible at introduction so let's just skip to the next section!" <img src="https://file.garden/ZNjY5-CbZ0o-GQoj/edebad09.gif"></p>
  <p align="center">
