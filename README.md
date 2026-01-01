@@ -117,7 +117,7 @@
 
 <p align="center">"I dont mind boops, but they are not a way to get my attention. If you want my attention, whisper me or speak, I usually dont respond to just "hi" though, so be creative!"</p>
 
-<p align="center">"I love crowns ${\textsf{\color{#99CCFF}(👑)}}$ or compliments! Feel free to! though, do it in whisper in case I dont see it."</p>
+<p align="center">"I love crowns ${\textsf{\color{#99CCFF}(👑)}}$ or compliments! Feel free to! Though, do it in whisper in case I dont see it."</p>
 
 <p align="center">"I am happily taken by my lovely boyfriend, so I would prefer if you dont flirt with me or anything like that! This is a pony game, not a dating game."</p>
 <p align="center">
