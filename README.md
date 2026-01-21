@@ -50,7 +50,7 @@
  <br/>
 <h2 align="center">${\textsf{\color{#FFFFA0}General}}$</h2>
 
-<p align="center">"I ${\textsf{\color{#FF784C}used}}$ to play Pony Town daily ${\textsf{\color{#99CCFF}(400+ days of playtime)}}$, I have been playing since 2017 ${\textsf{\color{#99CCFF}(daily since june of 2018 not counting breaks)}}$, I've gotten less frequent but I want to get back in again, maybe someday, but I've been pretty busy these days spending time with my boyfriend and friends outside of this game."</p>
+<p align="center">"I ${\textsf{\color{#FF784C}used}}$ to play Pony Town daily ${\textsf{\color{#99CCFF}(400+ days of playtime)}}$, I have been playing since 2017 ${\textsf{\color{#99CCFF}(daily since june of 2018 not counting breaks)}}$, I've gotten less frequent but I want to get back in again."</p>
   
 <p align="center">"I'm very friendly so feel free to interact! I'm very shy but also very hyper, I can get out of hand sometimes, don't be scared to correct me when I'm wrong!"</p>
   
@@ -118,8 +118,6 @@
 <p align="center">"I dont mind boops, but they are not a way to get my attention. If you want my attention, whisper me or speak, I usually dont respond to just "hi" though, so be creative!"</p>
 
 <p align="center">"I love crowns ${\textsf{\color{#99CCFF}(👑)}}$ or compliments! Feel free to! Though, do it in whisper in case I dont see it."</p>
-
-<p align="center">"I am happily taken by my lovely boyfriend, so I would prefer if you dont flirt with me or anything like that! This is a pony game, not a dating game."</p>
 <p align="center">
 <img align="center" src="https://file.garden/ZNjY5-CbZ0o-GQoj/yttdarrowmove.gif">
 <img align="center" src="https://file.garden/ZNjY5-CbZ0o-GQoj/dividerquestionmark.png">
